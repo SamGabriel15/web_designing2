@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(239, 241, 79);
+    text-align: center;
+}
+a{
+    background-color: rgb(70, 231, 196);
+    margin: 5px 0px;
+}
+ul>li{
+    margin: 10px 0px;
+    list-style: none;
+}
+ul>li>a{
+    border: 1px solid black;
+    box-shadow: -2px -1px 3px 2px black;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 3px;
+}
+h3{
+    color: rgb(228, 38, 38);
+}
+h1{
+    font-size: 35px;
+    color: blue;
+    text-shadow: 3px 2px 2px red;
+}
